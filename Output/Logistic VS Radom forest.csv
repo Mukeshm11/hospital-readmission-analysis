@@ -1,0 +1,11 @@
+Model,Metric,Values
+Logistic Regression,Recall,0.84
+Logistic Regression,Precision,0.4091
+Logistic Regression,F1 Score,0.0164
+Logistic Regression,ROC-AUC,0.633
+Logistic Regression,PR-AUC,0.18
+Random Forest,Recall,0.5681
+Random Forest,Precision,0.1634
+Random Forest,F1 Score,0.2538
+Random Forest,ROC-AUC,0.655
+Random Forest,PR-AUC,0.19
