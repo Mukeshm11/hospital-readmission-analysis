@@ -25,4 +25,4 @@ Compare prediction thresholds on validation data and assess the trade-off betwee
 #### Limitations
 These findings describe historical encounters and observed associations, not causal relationships. Model probabilities and risk groups require further validation before operational use.
 
-For supporting analysis and limitations, see the [Insights_and_Recommendations](reports/Insights_and_Recommendations.md)
+For supporting analysis and limitations, see the [Insights and Recommendations Report](reports/Insights_and_Recommendations.md)
